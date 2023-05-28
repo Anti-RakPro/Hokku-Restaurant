@@ -30,7 +30,7 @@ const DUMMY_MEALS = [
         price: 18.99,
     },
 ];
-const AvailableMeals = ()=>{
+const  AvailableMeals = ()=>{
 
      const mealsList = DUMMY_MEALS.map(meal => {
          return (
