@@ -13,12 +13,16 @@
     top: 10%;
     left: 5%;
     width: 90%;
+    max-height: 80%;
     background-color: white;
-    padding: 1rem;
+    padding: 15px;
     border-radius: 14px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
     z-index: 30;
     animation: slide-down 300ms ease-out forwards;
+    overflow-y: auto;
+    scrollbar-width: 4px;
+    scrollbar-color: #5a1a01 #fff;
 
 }
 
