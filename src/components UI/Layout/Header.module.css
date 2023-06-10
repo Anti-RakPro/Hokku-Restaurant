@@ -39,7 +39,7 @@
 }
 
 @media (max-width: 500px) {
-    .header {
+    .header-center {
         flex-direction: column;
     }
 
