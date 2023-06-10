@@ -10,6 +10,7 @@
     align-items: center;
     border-radius: 25px;
     font-weight: bold;
+    margin: 5px;
 }
 
 .button:hover,
